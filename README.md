@@ -12,10 +12,12 @@ would text about AI, to `/output/entry.txt`.
 
 **Thingamajig**
 
-It is the classic grandma word for a gadget she cannot name: warm,
-a little baffled, and tied to machines. She does not say "robot" or
-"AI", she points at the thing and calls it a thingamajig. One word,
-funny on its own, no caption needed.
+It is the classic grandma word for a gadget she cannot name: it sounds
+like her, warm and a little baffled, and it points straight at a
+machine. It stays fresh because she reaches for it instead of the
+obvious "robot" or "AI". She does not say "robot" or "AI", she points
+at the thing and calls it a thingamajig. One word, funny on its own,
+no caption needed.
 
 ## How to run
 
